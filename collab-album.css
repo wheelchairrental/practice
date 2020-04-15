@@ -1,0 +1,40 @@
+
+header {
+    text-align: center;
+}
+h1 {
+    font-weight: bold;
+    font-size: 80px;
+    font-family: 'Bowlby One SC', cursive;
+}
+body {
+    background-color: #12011B;
+    color: #FFCCFF;
+}
+li {
+    padding: 20px;
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 60px;
+}
+a {
+    text-decoration: none;
+}
+.main {
+    display: block;
+}
+img {
+    width: 50%;
+    float: left;
+}
+.drop-down {
+    text-align: center;
+    display: inline-block;
+    font-size: 40px;
+    font-family: 'Bowlby One SC', cursive;
+    font-weight: 700;
+    padding: 100px;
+}
+.house {
+    text-align: center;
+}
